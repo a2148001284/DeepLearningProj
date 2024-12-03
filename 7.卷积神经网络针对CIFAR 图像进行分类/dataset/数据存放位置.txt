@@ -1,0 +1,3 @@
+C:\Users\Administrator\.keras\datasets
+
+其中\Administrator为相应的用户名
